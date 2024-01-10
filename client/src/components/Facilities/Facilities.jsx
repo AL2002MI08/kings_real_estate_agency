@@ -75,9 +75,6 @@ const Facilities = ({
     }
 
   })
-
-
-  console.log(token, 'tokennnn');
   
   return (
     <Box maw="30%" mx="auto" my="sm">
