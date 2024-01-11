@@ -28,7 +28,7 @@ Clone the repository:
 git clone https://github.com/AL2002MI08/kings_real_estate_agency.git
 Navigate to the project directory:
 
-cd kings-real-estate
+cd kings_real_estate_agency
 Install the required packages:
 
 npm install
@@ -53,7 +53,7 @@ Clone the forked repository: On your local machine, open a terminal and use the 
 git clone https://github.com/AL2002MI08/kings_real_estate_agency.git
 Navigate to the project directory: Use the cd command to move into the project's directory:
 
-cd kings-real-estate
+cd kings_real_estate_agency
 Create a new branch: Use the git checkout command to create a new branch and switch to it:
 git checkout -b <new-branch-name>
 Make changes: Make the changes you would like to contribute to the project.
